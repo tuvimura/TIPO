@@ -1,1 +1,1 @@
-# TIPO
+primera clase de programacion
